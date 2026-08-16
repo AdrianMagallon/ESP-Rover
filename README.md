@@ -37,7 +37,7 @@ Motor speed is set to 225/255 by default. Diagonal movements slow down one side 
 
 ## Schematic
 
-A full KiCad schematic for the wiring described above is included in this repo under [`Esp-rover/`](./Esp-rover), along with an exported [`ESP-Rover.pdf`](./Esp-rover/ESP-Rover.pdf) for quick viewing without needing KiCad installed. Open the `.kicad_pro` file in KiCad if you want to view or edit the schematic directly.
+A full KiCad schematic for the wiring described above is included in this repo under [`Hardware/`](./Hardware), along with an exported [`Schematic.pdf`](./Hardware/Schematic.pdf) for quick viewing without needing KiCad installed. Open the `.kicad_pro` file in KiCad if you want to view or edit the schematic directly.
 
 ## File Structure
 
