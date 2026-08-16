@@ -35,6 +35,10 @@ The ball caster needs no wiring at all — it's a passive wheel with no motor, s
 
 Motor speed is set to 225/255 by default. Diagonal movements slow down one side to produce a turning arc; `drive()` handles the actual mixing so this works the same whether a side has one motor or two.
 
+## Schematic
+
+A full KiCad schematic for the wiring described above is included in this repo under [`Esp-rover/`](./Esp-rover), along with an exported [`ESP-Rover.pdf`](./Esp-rover/ESP-Rover.pdf) for quick viewing without needing KiCad installed. Open the `.kicad_pro` file in KiCad if you want to view or edit the schematic directly.
+
 ## File Structure
 
 ```
